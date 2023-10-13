@@ -3,3 +3,5 @@
 Return true if yes, false otherwise :) */
 
 let hero = (bullets, dragons) => bullets >= dragons*2 ? true : false ;
+
+// const hero = (bullets, dragons) => dragons * 2 <= bullets;
